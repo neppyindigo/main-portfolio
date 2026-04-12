@@ -15,7 +15,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Jason Osteen",
   description:
-    "I build things I actually want to exist.",
+    "I build things I actually want to use.",
   icons: {
     icon: [
       { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Jason Osteen",
     description:
-      "I build things I actually want to exist.",
+      "I build things I actually want to use.",
     url: "https://jasonosteen.dev",
     type: "website",
   },
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     site: "@neppyindigo",
     title: "Jason Osteen",
     description:
-      "I build things I actually want to exist.",
+      "I build things I actually want to use.",
   },
 };
 

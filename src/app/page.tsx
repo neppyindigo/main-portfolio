@@ -9,7 +9,7 @@ export default function Home() {
 
         {/* Identity */}
         <p className="mt-4 text-lg text-warm-medium leading-relaxed">
-          I build things I actually want to exist.
+          I build things I actually want to use.
         </p>
 
         {/* M stripe divider */}
@@ -22,7 +22,7 @@ export default function Home() {
         {/* Personal */}
         <div className="space-y-2 text-sm text-warm-medium">
           <p>
-            <span className="text-warm-light">interests</span> — cars (especially anything with an M badge), coffee, and games (currently playing TFT and Valorant)
+            <span className="text-warm-light">interests</span> — cars, coffee, and games
           </p>
           <p>
             <span className="text-warm-light">learning</span> — AI, software, fitness, and how to build useful things
@@ -43,7 +43,7 @@ export default function Home() {
             >
               weft.us
             </a>
-            <span className="text-warm-medium"> — fitness & lifestyle improvement app</span>
+            <span className="text-warm-medium"> — fitness tools built around understanding, not guesswork</span>
           </p>
           <p>
             <span className="text-warm-lighter">wip · </span>
