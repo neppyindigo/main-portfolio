@@ -48,7 +48,7 @@ export default function Home() {
           <p>
             <span className="text-warm-lighter">wip · </span>
             <span className="text-warm-dark font-medium">forge</span>
-            <span className="text-warm-medium"> — a system for turning thinking into shipping</span>
+            <span className="text-warm-medium"> — a system for turning ideas into shipped projects</span>
           </p>
         </div>
 
