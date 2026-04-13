@@ -25,7 +25,7 @@ export default function Home() {
             <span className="text-warm-light">interests</span> — cars, coffee, and games
           </p>
           <p>
-            <span className="text-warm-light">learning</span> — AI, software, fitness, and how to build useful things
+            <span className="text-warm-light">learning</span> — how to be a better engineer
           </p>
           <p>
             <span className="text-warm-light">based in</span> — the Bay Area
