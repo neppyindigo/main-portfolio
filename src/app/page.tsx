@@ -47,7 +47,12 @@ export default function Home() {
           </p>
           <p>
             <span className="text-warm-lighter">wip · </span>
-            <span className="text-warm-dark font-medium">forge</span>
+            <a
+              href="https://github.com/neppyindigo/forge"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-warm-dark font-medium hover:underline"
+            >forge</a>
             <span className="text-warm-medium"> — a system for turning ideas into shipped projects</span>
           </p>
         </div>
