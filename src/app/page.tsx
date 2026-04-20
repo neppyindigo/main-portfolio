@@ -55,6 +55,16 @@ export default function Home() {
             >forge</a>
             <span className="text-warm-medium"> — a system for turning ideas into shipped projects</span>
           </p>
+          <p>
+            <a
+              href="https://listready.shop/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-warm-dark font-medium hover:underline"
+            >ListReady</a>
+            <span className="text-warm-medium"> — make selling your stuff, easy</span>
+          </p>
+          
         </div>
 
         {/* Links */}
